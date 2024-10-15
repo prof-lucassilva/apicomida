@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "nome": "Pizza Marguerita",
+      "descricao": "Clássica pizza com molho de tomate, mussarela e manjericão fresco.",
+      "preco": 35.99,
+      "categoria": "Pizzas",
+      "imagem": "pizza_marguerita.jpg",
+      "ingredientes": ["molho de tomate", "mussarela", "manjericão"],
+      "adicionais": ["queijo extra", "bacon"],
+      "tamanho": "média"
+    },
+    {
+      "id": 2,
+      "nome": "Hambúrguer Artesanal",
+      "descricao": "Hambúrguer feito com carne 100% Angus, acompanhado de queijo cheddar, alface e tomate.",
+      "preco": 29.99,
+      "categoria": "Sanduíches",
+      "imagem": "hamburguer_artesanal.jpg",
+      "ingredientes": ["pão", "carne bovina", "queijo cheddar", "alface", "tomate"],
+      "adicionais": ["bacon", "ovo frito"]
+    },
+    {
+      "id": 20,
+      "nome": "Sushi Nigiri",
+      "descricao": "Nigiri tradicional com salmão fresco.",
+      "preco": 12.99,
+      "categoria": "Japonesa",
+      "imagem": "sushi_nigiri.jpg",
+      "ingredientes": ["arroz japonês", "salmão"]
+    },
+    {
+        "id": 21,
+        "nome": "Burrito Mexicano",
+        "descricao": "Tortilha de trigo recheada com carne desfiada, feijão preto, arroz, guacamole e salsa.",
+        "preco": 28.99,
+        "categoria": "Mexicana",
+        "imagem": "burrito_mexicano.jpg",
+        "ingredientes": ["tortilha", "carne desfiada", "feijão preto", "arroz", "guacamole", "salsa"],
+        "adicionais": ["queijo", "sour cream"],
+        "opcoes": ["carne bovina", "frango", "vegetariano"],
+        "alergenos": ["glúten"]
+      },
+      {
+        "id": 22,
+        "nome": "Salada Caesar",
+        "descricao": "Alface romana, croutons, queijo parmesão e molho Caesar.",
+        "preco": 19.99,
+        "categoria": "Saladas",
+        "imagem": "salada_caesar.jpg",
+        "ingredientes": ["alface romana", "croutons", "queijo parmesão", "molho caesar"],
+        "opcoes": ["frango grelhado", "salmão grelhado"],
+        "alergenos": ["lactose"]
+      },
+      {
+        "id": 30,
+        "nome": "Brownie com sorvete",
+        "descricao": "Delicioso brownie caseiro acompanhado de uma bola de sorvete.",
+        "preco": 15.99,
+        "categoria": "Sobremesas",
+        "imagem": "brownie_sorvete.jpg",
+        "opcoes": ["sorvete de chocolate", "sorvete de creme"],
+        "alergenos": ["lactose", "glúten"]
+      }
+  ]
